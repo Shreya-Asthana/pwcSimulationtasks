@@ -1,0 +1,131 @@
+﻿InternetService,StreamingMovies,OnlineSecurity,StreamingTV,DeviceProtection,TechSupport,Count of customerID,Churn
+DSL,No,No,No,No,No,246,No
+DSL,No,No,No,No,No,145,Yes
+DSL,No,No,No,No,Yes,90,No
+DSL,No,No,No,No,Yes,30,Yes
+DSL,No,No,No,Yes,No,48,No
+DSL,No,No,No,Yes,No,25,Yes
+DSL,No,No,No,Yes,Yes,44,No
+DSL,No,No,No,Yes,Yes,6,Yes
+DSL,No,No,Yes,No,No,38,No
+DSL,No,No,Yes,No,No,22,Yes
+DSL,No,No,Yes,No,Yes,32,No
+DSL,No,No,Yes,No,Yes,7,Yes
+DSL,No,No,Yes,Yes,No,25,No
+DSL,No,No,Yes,Yes,No,6,Yes
+DSL,No,No,Yes,Yes,Yes,30,No
+DSL,No,No,Yes,Yes,Yes,2,Yes
+DSL,No,Yes,No,No,No,129,No
+DSL,No,Yes,No,No,No,39,Yes
+DSL,No,Yes,No,No,Yes,131,No
+DSL,No,Yes,No,No,Yes,15,Yes
+DSL,No,Yes,No,Yes,No,72,No
+DSL,No,Yes,No,Yes,No,6,Yes
+DSL,No,Yes,No,Yes,Yes,80,No
+DSL,No,Yes,No,Yes,Yes,7,Yes
+DSL,No,Yes,Yes,No,No,33,No
+DSL,No,Yes,Yes,No,No,3,Yes
+DSL,No,Yes,Yes,No,Yes,39,No
+DSL,No,Yes,Yes,No,Yes,4,Yes
+DSL,No,Yes,Yes,Yes,No,21,No
+DSL,No,Yes,Yes,Yes,No,1,Yes
+DSL,No,Yes,Yes,Yes,Yes,60,No
+DSL,No,Yes,Yes,Yes,Yes,4,Yes
+DSL,Yes,No,No,No,No,36,No
+DSL,Yes,No,No,No,No,27,Yes
+DSL,Yes,No,No,No,Yes,29,No
+DSL,Yes,No,No,No,Yes,5,Yes
+DSL,Yes,No,No,Yes,No,26,No
+DSL,Yes,No,No,Yes,No,11,Yes
+DSL,Yes,No,No,Yes,Yes,26,No
+DSL,Yes,No,No,Yes,Yes,3,Yes
+DSL,Yes,No,Yes,No,No,37,No
+DSL,Yes,No,Yes,No,No,24,Yes
+DSL,Yes,No,Yes,No,Yes,37,No
+DSL,Yes,No,Yes,No,Yes,7,Yes
+DSL,Yes,No,Yes,Yes,No,53,No
+DSL,Yes,No,Yes,Yes,No,19,Yes
+DSL,Yes,No,Yes,Yes,Yes,97,No
+DSL,Yes,No,Yes,Yes,Yes,8,Yes
+DSL,Yes,Yes,No,No,No,31,No
+DSL,Yes,Yes,No,No,No,4,Yes
+DSL,Yes,Yes,No,No,Yes,43,No
+DSL,Yes,Yes,No,No,Yes,1,Yes
+DSL,Yes,Yes,No,Yes,No,31,No
+DSL,Yes,Yes,No,Yes,No,4,Yes
+DSL,Yes,Yes,No,Yes,Yes,70,No
+DSL,Yes,Yes,No,Yes,Yes,4,Yes
+DSL,Yes,Yes,Yes,No,No,23,No
+DSL,Yes,Yes,Yes,No,No,4,Yes
+DSL,Yes,Yes,Yes,No,Yes,40,No
+DSL,Yes,Yes,Yes,No,Yes,5,Yes
+DSL,Yes,Yes,Yes,Yes,No,49,No
+DSL,Yes,Yes,Yes,Yes,No,5,Yes
+DSL,Yes,Yes,Yes,Yes,Yes,216,No
+DSL,Yes,Yes,Yes,Yes,Yes,6,Yes
+Fiber optic,No,No,No,No,No,212,No
+Fiber optic,No,No,No,No,No,299,Yes
+Fiber optic,No,No,No,No,Yes,34,No
+Fiber optic,No,No,No,No,Yes,12,Yes
+Fiber optic,No,No,No,Yes,No,60,No
+Fiber optic,No,No,No,Yes,No,55,Yes
+Fiber optic,No,No,No,Yes,Yes,27,No
+Fiber optic,No,No,No,Yes,Yes,14,Yes
+Fiber optic,No,No,Yes,No,No,70,No
+Fiber optic,No,No,Yes,No,No,111,Yes
+Fiber optic,No,No,Yes,No,Yes,20,No
+Fiber optic,No,No,Yes,No,Yes,16,Yes
+Fiber optic,No,No,Yes,Yes,No,53,No
+Fiber optic,No,No,Yes,Yes,No,36,Yes
+Fiber optic,No,No,Yes,Yes,Yes,21,No
+Fiber optic,No,No,Yes,Yes,Yes,4,Yes
+Fiber optic,No,Yes,No,No,No,67,No
+Fiber optic,No,Yes,No,No,No,30,Yes
+Fiber optic,No,Yes,No,No,Yes,23,No
+Fiber optic,No,Yes,No,No,Yes,2,Yes
+Fiber optic,No,Yes,No,Yes,No,34,No
+Fiber optic,No,Yes,No,Yes,No,9,Yes
+Fiber optic,No,Yes,No,Yes,Yes,26,No
+Fiber optic,No,Yes,No,Yes,Yes,1,Yes
+Fiber optic,No,Yes,Yes,No,No,29,No
+Fiber optic,No,Yes,Yes,No,No,13,Yes
+Fiber optic,No,Yes,Yes,No,Yes,13,No
+Fiber optic,No,Yes,Yes,No,Yes,4,Yes
+Fiber optic,No,Yes,Yes,Yes,No,24,No
+Fiber optic,No,Yes,Yes,Yes,No,8,Yes
+Fiber optic,No,Yes,Yes,Yes,Yes,16,No
+Fiber optic,No,Yes,Yes,Yes,Yes,2,Yes
+Fiber optic,Yes,No,No,No,No,66,No
+Fiber optic,Yes,No,No,No,No,121,Yes
+Fiber optic,Yes,No,No,No,Yes,20,No
+Fiber optic,Yes,No,No,No,Yes,9,Yes
+Fiber optic,Yes,No,No,Yes,No,55,No
+Fiber optic,Yes,No,No,Yes,No,30,Yes
+Fiber optic,Yes,No,No,Yes,Yes,23,No
+Fiber optic,Yes,No,No,Yes,Yes,6,Yes
+Fiber optic,Yes,No,Yes,No,No,119,No
+Fiber optic,Yes,No,Yes,No,No,165,Yes
+Fiber optic,Yes,No,Yes,No,Yes,72,No
+Fiber optic,Yes,No,Yes,No,Yes,29,Yes
+Fiber optic,Yes,No,Yes,Yes,No,159,No
+Fiber optic,Yes,No,Yes,Yes,No,154,Yes
+Fiber optic,Yes,No,Yes,Yes,Yes,132,No
+Fiber optic,Yes,No,Yes,Yes,Yes,53,Yes
+Fiber optic,Yes,Yes,No,No,No,29,No
+Fiber optic,Yes,Yes,No,No,No,13,Yes
+Fiber optic,Yes,Yes,No,No,Yes,15,No
+Fiber optic,Yes,Yes,No,No,Yes,2,Yes
+Fiber optic,Yes,Yes,No,Yes,No,21,No
+Fiber optic,Yes,Yes,No,Yes,No,3,Yes
+Fiber optic,Yes,Yes,No,Yes,Yes,24,No
+Fiber optic,Yes,Yes,No,Yes,Yes,4,Yes
+Fiber optic,Yes,Yes,Yes,No,No,47,No
+Fiber optic,Yes,Yes,Yes,No,No,28,Yes
+Fiber optic,Yes,Yes,Yes,No,Yes,34,No
+Fiber optic,Yes,Yes,Yes,No,Yes,15,Yes
+Fiber optic,Yes,Yes,Yes,Yes,No,84,No
+Fiber optic,Yes,Yes,Yes,Yes,No,26,Yes
+Fiber optic,Yes,Yes,Yes,Yes,Yes,170,No
+Fiber optic,Yes,Yes,Yes,Yes,Yes,23,Yes
+No,No internet service,No internet service,No internet service,No internet service,No internet service,1413,No
+No,No internet service,No internet service,No internet service,No internet service,No internet service,113,Yes
